@@ -1,5 +1,5 @@
 {
-  "name": "counterapp",
+  "name": "memory_game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
