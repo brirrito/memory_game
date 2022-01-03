@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory_game/static/css/main.86e765f1.css",
+    "main.js": "/memory_game/static/js/main.2afd15eb.js",
+    "static/media/nine_tails.jpg": "/memory_game/static/media/nine_tails.c82e23eb373361642113.jpg",
+    "static/media/rapidash.jpg": "/memory_game/static/media/rapidash.9dc2e744fd4fbfba9a7a.jpg",
+    "static/media/dewgong.jpg": "/memory_game/static/media/dewgong.3f60deafda3b9a361ae1.jpg",
+    "static/media/dragonair.jpg": "/memory_game/static/media/dragonair.562fc1ef6659c279193f.jpg",
+    "static/media/gastly.jpg": "/memory_game/static/media/gastly.e09515e0118f637a7937.jpg",
+    "static/media/dragonite.jpg": "/memory_game/static/media/dragonite.529e15040b201761412a.jpg",
+    "static/media/flareon.jpg": "/memory_game/static/media/flareon.6852db9b36ea897c02db.jpg",
+    "static/media/nidoran.jpg": "/memory_game/static/media/nidoran.7ad6fb01d36aee6c34fa.jpg",
+    "static/media/jigglypuff.jpg": "/memory_game/static/media/jigglypuff.7581036346c58217e265.jpg",
+    "index.html": "/memory_game/index.html",
+    "main.86e765f1.css.map": "/memory_game/static/css/main.86e765f1.css.map",
+    "main.2afd15eb.js.map": "/memory_game/static/js/main.2afd15eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e765f1.css",
+    "static/js/main.2afd15eb.js"
+  ]
+}
